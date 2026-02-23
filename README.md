@@ -1,4 +1,4 @@
-# Hi, I'm <Nadezhda Popova>  
+# Hi, I'm Nadezhda Popova  
 
 Backend Developer (Python)
 ---
