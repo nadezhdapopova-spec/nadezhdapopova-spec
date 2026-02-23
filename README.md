@@ -18,19 +18,25 @@ I work primarily with Python and the Django ecosystem, designing REST APIs, impl
 - Django
 - Django REST Framework
 - Celery
+- REST API design
+- Asynchronous task processing
 
 **Databases**
 - PostgreSQL
 - SQL
+- Relational data modeling
+- Query optimization
 
 **Infrastructure & Tools**
 - Redis
-- CI/CD
+- GitHub Actions (CI/CD)
 - Git
 - Bash
+- Basic Docker knowledge
 
-**Testing**
+**Testing & Code Quality**
 - unittest
+- pre-commit
 
 ---
 
@@ -41,8 +47,6 @@ I work primarily with Python and the Django ecosystem, designing REST APIs, impl
 - Designing relational data models and optimizing PostgreSQL queries
 - Integrating third-party and internal APIs (REST, JSON)
 - Developing data parsing and processing services
-- Integrating external image and video generation services via API
-- Maintaining and scaling existing backend systems
 - Writing and supporting unit tests for backend functionality
 
 ---
@@ -71,34 +75,40 @@ Backend-разработчик, специализирующийся на соз
 **Backend**
 - Python
 - Django
-- Django Rest Framework
+- Django REST Framework
 - Celery
+- REST API design
+- Asynchronous task processing
 
 **Базы данных**
 - PostgreSQL
 - SQL
+- Relational data modeling
+- Query optimization
 
 **Инфраструктура и инструменты**
 - Redis
-- CI/CD
+- GitHub Actions (CI/CD)
 - Git
 - Bash
+- Basic Docker knowledge
 
-**Тестирование**
+**Тестирование и качество кода**
 - unittest
-
----
+- pre-commit
 
 ## Основная экспертиза
 
 - Разработка REST API и серверных сервисов
 - Реализация бизнес-логики и валидаций на уровне backend
+- Построение асинхронных процессов и фоновых задач (Celery)
 - Проектирование реляционных моделей данных и работа с PostgreSQL
-- Интеграция внешних и внутренних API (REST, JSON)
+- Интеграция внешних сервисов (Telegram Bot API, email, REST API, JSON)
 - Разработка сервисов парсинга и обработки данных
-- Интеграция сервисов генерации изображений и видео через API
-- Поддержка, развитие и оптимизация существующей серверной части
-- Написание и сопровождение unit-тестов
+- Реализация механизмов аутентификации и активации аккаунтов
+- Настройка прав доступа и логики разграничения доступа
+- Поддержка и развитие существующей серверной архитектуры
+- Написание и сопровождение тестов
 
 ---
 
@@ -106,5 +116,5 @@ Backend-разработчик, специализирующийся на соз
 
 - Чистая и поддерживаемая архитектура
 - Масштабируемость решений
-- Надёжность и целостность данных
+- Надёжность и консистентность данных
 - Чёткая реализация бизнес-логики
