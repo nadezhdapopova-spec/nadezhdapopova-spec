@@ -1,4 +1,4 @@
-# Hi, I'm <Your Name>  
+# Hi, I'm <Nadezhda Popova>  
 Backend Developer (Python)
 
 🇷🇺 Русская версия ниже  
