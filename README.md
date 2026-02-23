@@ -1,9 +1,5 @@
 # Hi, I'm <Nadezhda Popova>  
 Backend Developer (Python)
-
-🇷🇺 Русская версия ниже  
-🇬🇧 English version below  
-
 ---
 
 # 🇬🇧 About Me
