@@ -38,8 +38,6 @@ I focus on code quality, data integrity, testing, and maintaining a clear projec
 - pre-commit
 - Flake8 / isort / Black
 
----
-
 ## ✅ Core Expertise
 
 - Development and maintenance of backend services
@@ -53,8 +51,6 @@ I focus on code quality, data integrity, testing, and maintaining a clear projec
 - Similarity algorithms (Weighted Jaccard, TF-IDF, cosine similarity)
 - Data processing and aggregation services
 - Maintenance and improvement of existing backend systems
-
----
 
 ## ⚖️ Engineering Focus
 
@@ -103,8 +99,6 @@ Backend-разработчик на Python. Разрабатываю серве�
 - pre-commit
 - Flake8 / isort / Black
 
----
-
 ## ✅ Основная экспертиза
 
 - Разработка backend-сервисов
@@ -118,8 +112,6 @@ Backend-разработчик на Python. Разрабатываю серве�
 - Реализация алгоритмов оценки сходства (взвешенный Jaccard, TF-IDF, cosine similarity)
 - Разработка сервисов обработки и агрегации данных
 - Поддержка и развитие существующей серверной части приложений
-
----
 
 ## ⚖️ Подход к разработке
 
