@@ -1,8 +1,8 @@
 # 🇬🇧 🖊 About Me
 
-Backend Developer specializing in Python. I build server-side applications using Django and Django REST Framework.
+Backend Developer specializing in Python.
 
-I design REST APIs, implement business logic, work with relational databases, and build asynchronous task processing workflows. 
+I build server-side applications. I design REST APIs, implement business logic, work with relational databases, and build asynchronous task processing workflows. 
 I focus on code quality, data integrity, testing, and maintaining a clear project structure.
 
 ---
@@ -63,9 +63,10 @@ I focus on code quality, data integrity, testing, and maintaining a clear projec
 
 # 🇷🇺 🖊 Обо мне
 
-Backend-разработчик на Python. Разрабатываю серверную часть приложений с использованием Django и Django REST Framework.
+Backend-разработчик на Python. 
 
-Проектирую REST API, реализую прикладную бизнес-логику, работаю с реляционными базами данных и асинхронными задачами. В работе уделяю внимание качеству кода, обеспечению целостности данных, тестированию и понятной структуре проекта.
+Разрабатываю серверную часть приложений. Проектирую REST API, реализую прикладную бизнес-логику, работаю с реляционными базами данных и асинхронными задачами. 
+В работе уделяю внимание качеству кода, обеспечению целостности данных, тестированию и понятной структуре проекта.
 
 ## ⚙️ Технологии
 
