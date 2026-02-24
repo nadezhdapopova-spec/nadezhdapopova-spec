@@ -1,17 +1,13 @@
-# Hi, I'm Nadezhda Popova  
+# 🇬🇧 🖊 About Me
 
-Backend Developer (Python)
----
+Backend Developer specializing in Python. I build server-side applications using Django and Django REST Framework.
 
-# 🇬🇧 About Me
-
-Backend-focused software developer specializing in building scalable and maintainable server-side applications.
-
-I work primarily with Python and the Django ecosystem, designing REST APIs, implementing business logic, and ensuring data consistency in production systems.
+I design REST APIs, implement business logic, work with relational databases, and build asynchronous task processing workflows. 
+I focus on code quality, data integrity, testing, and maintaining a clear project structure.
 
 ---
 
-## Tech Stack
+## ⚙️ Tech Stack
 
 **Backend**
 - Python
@@ -32,89 +28,102 @@ I work primarily with Python and the Django ecosystem, designing REST APIs, impl
 - GitHub Actions (CI/CD)
 - Git
 - Bash
-- Basic Docker knowledge
+- Docker (basic knowledge)
 
 **Testing & Code Quality**
 - unittest
+- unittest
+- pytest
+- Coverage
 - pre-commit
+- Flake8 / isort / Black
 
 ---
 
-## Core Expertise
+## ✅ Core Expertise
 
-- Designing and developing REST APIs and backend services
-- Implementing business logic and validation rules at the server level
-- Designing relational data models and optimizing PostgreSQL queries
-- Integrating third-party and internal APIs (REST, JSON)
-- Developing data parsing and processing services
-- Writing and supporting unit tests for backend functionality
-
----
-
-## Engineering Focus
-
-- Clean and maintainable architecture
-- Performance and scalability
-- Data integrity and reliability
-- Well-structured backend business logic
+- Development and maintenance of backend services
+- Implementation of business logic and server-side validations
+- Building asynchronous workflows and scheduled tasks (Celery, Celery Beat)
+- Working with time zones and notification systems
+- Designing and maintaining relational data models
+- External API integrations (caching, retry mechanisms, error handling)
+- Role-based access control (RBAC) implementation
+- Content-based recommendation mechanisms
+- Similarity algorithms (Weighted Jaccard, TF-IDF, cosine similarity)
+- Data processing and aggregation services
+- Maintenance and improvement of existing backend systems
 
 ---
 
+## ⚖️ Engineering Focus
+
+- Maintainable and structured architecture
+- Reliable data handling
+- Clear separation of concerns
+- Test coverage for core business logic
+
 ---
 
-# 🇷🇺 Обо мне
+# 🇷🇺 🖊 Обо мне
 
-Backend-разработчик, специализирующийся на создании масштабируемых и поддерживаемых серверных приложений.
+Backend-разработчик на Python. Разрабатываю серверную часть приложений с использованием Django и Django REST Framework.
 
-Работаю преимущественно с Python и экосистемой Django: проектирую REST API, реализую бизнес-логику, обеспечиваю целостность данных и стабильность серверной части приложений.
+Проектирую REST API, реализую прикладную бизнес-логику, работаю с реляционными базами данных и асинхронными задачами. В работе уделяю внимание качеству кода, обеспечению целостности данных, тестированию и понятной структуре проекта.
 
 ---
 
-## Технологии
+## ⚙️ Технологии
 
 **Backend**
 - Python
 - Django
 - Django REST Framework
 - Celery
-- REST API design
-- Asynchronous task processing
+- Разработка REST API
+- Асинхронная обработка задач
 
 **Базы данных**
 - PostgreSQL
 - SQL
-- Relational data modeling
-- Query optimization
+- Проектирование реляционных моделей данных
+- Оптимизация запросов
 
 **Инфраструктура и инструменты**
 - Redis
 - GitHub Actions (CI/CD)
 - Git
 - Bash
-- Basic Docker knowledge
+- Docker (базовый уровень)
 
 **Тестирование и качество кода**
 - unittest
+- pytest
+- Coverage
 - pre-commit
-
-## Основная экспертиза
-
-- Разработка REST API и серверных сервисов
-- Реализация бизнес-логики и валидаций на уровне backend
-- Построение асинхронных процессов и фоновых задач (Celery)
-- Проектирование реляционных моделей данных и работа с PostgreSQL
-- Интеграция внешних сервисов (Telegram Bot API, email, REST API, JSON)
-- Разработка сервисов парсинга и обработки данных
-- Реализация механизмов аутентификации и активации аккаунтов
-- Настройка прав доступа и логики разграничения доступа
-- Поддержка и развитие существующей серверной архитектуры
-- Написание и сопровождение тестов
+- Flake8 / isort / Black
 
 ---
 
-## Подход к разработке
+## ✅ Основная экспертиза
 
-- Чистая и поддерживаемая архитектура
-- Масштабируемость решений
-- Надёжность и консистентность данных
-- Чёткая реализация бизнес-логики
+- Разработка backend-сервисов
+- Реализация бизнес-логики и серверных валидаций
+- Построение асинхронных процессов и периодических задач (Celery, Celery Beat)
+- Работа с временными зонами и отправкой уведомлений
+- Проектирование и поддержка реляционных моделей данных
+- Интеграция внешних API (кэширование, retry, обработка ошибок)
+- Реализация систем ролей и разграничения доступа (RBAC)
+- Разработка рекомендательных механизмов (content-based подход)
+- Реализация алгоритмов оценки сходства (взвешенный Jaccard, TF-IDF, cosine similarity)
+- Разработка сервисов обработки и агрегации данных
+- Поддержка и развитие существующей серверной части приложений
+
+---
+
+## ⚖️ Подход к разработке
+
+- Поддерживаемая и структурированная архитектура
+- Надёжность и целостность данных
+- Чёткое разделение слоёв приложения
+- Тестируемость ключевой бизнес-логики
