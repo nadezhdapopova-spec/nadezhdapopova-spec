@@ -61,6 +61,11 @@ I focus on code quality, data integrity, testing, and maintaining a clear projec
 - Clear separation of concerns
 - Test coverage for core business logic
 
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nadezhdapopova13@yandex.ru)
+
+[![telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/nade_zh_da_smile)
+
 ---
 
 # 🇷🇺 🖊 Обо мне
@@ -123,16 +128,9 @@ Backend-разработчик на Python.
 - Чёткое разделение слоёв приложения
 - Тестируемость ключевой бизнес-логики
 
-## 🌐 Socials:
+## 🌐 Контакты для связи:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nadezhdapopova13@yandex.ru)
 
-## 📊 GitHub Stats:
+[![telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/nade_zh_da_smile)
 
-  ![](https://github-readme-stats.vercel.app/api?username=nadezhdapopova-spec&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  
-  ![](https://nirzak-streak-stats.vercel.app/?user=nadezhdapopova-spec&theme=holi&hide_border=false)<br/>
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nadezhdapopova-spec&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  
 
- 
