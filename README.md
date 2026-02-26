@@ -32,7 +32,6 @@ I focus on code quality, data integrity, testing, and maintaining a clear projec
 
 **Testing & Code Quality**
 - unittest
-- unittest
 - pytest
 - Coverage
 - pre-commit
