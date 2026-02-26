@@ -1,4 +1,4 @@
-# 🇬🇧 🖊 About Me
+# 🖊 About Me
 
 Backend Developer specializing in Python.
 
