@@ -123,6 +123,9 @@ Backend-разработчик на Python.
 - Чёткое разделение слоёв приложения
 - Тестируемость ключевой бизнес-логики
 
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nadezhdapopova13@yandex.ru)
+
 ## 📊 GitHub Stats:
 
   ![](https://github-readme-stats.vercel.app/api?username=nadezhdapopova-spec&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -132,5 +135,4 @@ Backend-разработчик на Python.
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nadezhdapopova-spec&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nadezhdapopova13@yandex.ru) 
+ 
