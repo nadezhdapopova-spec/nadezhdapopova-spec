@@ -63,7 +63,7 @@ I focus on code quality, data integrity, testing, and maintaining a clear projec
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nadezhdapopova13@yandex.ru)
 
-[![telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/nade_zh_da_popova)
+[![telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/simbarilion)
 
 ---
 
@@ -130,6 +130,5 @@ Backend-разработчик на Python.
 ## 🌐 Контакты для связи:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nadezhdapopova13@yandex.ru)
 
-[![telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/nade_zh_da_popova)
-
+[![telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/simbarilion)
 
