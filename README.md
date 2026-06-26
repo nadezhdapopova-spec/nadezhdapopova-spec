@@ -34,6 +34,7 @@ I focus on code quality, data integrity, testing, and maintaining a clear projec
 - pandas
 - Apache Airflow
 - ETL pipelines
+- Google Sheets
 - Data processing
 - Data transformation
 
@@ -150,6 +151,7 @@ Backend-разработчик на Python.
 - pandas
 - Apache Airflow
 - ETL pipelines
+- Google Sheets
 - Обработка данных
 - Преобразование данных
 
@@ -230,12 +232,14 @@ Backend-разработчик на Python.
 
 [![telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/simbarilion)
 
+
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=simbarilion&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=simbarilion&theme=dark&hide_border=false)<br/>
+
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=simbarilion&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 
